@@ -1,0 +1,16 @@
+{
+  "employees" : {
+    "-MUKsZ99Dm0ecDvfoQIE" : {
+      "address" : "US",
+      "age" : 25,
+      "name" : "emp1",
+      "phone" : "+1 8388 765 432"
+    },
+    "-MUKvn2WUtxINUSn4JPZ" : {
+      "address" : "US",
+      "age" : 28,
+      "name" : "emp2",
+      "phone" : "+1 8348 765 432"
+    }
+  }
+}
